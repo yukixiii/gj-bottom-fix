@@ -1,0 +1,9 @@
+{
+	"id": "gj-bottom-fix",
+	"name": "gj Bottom Fix",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "In Vim mode, gj/gk at the last/first line keeps the cursor in place instead of jumping to the top of the note.",
+	"author": "yuki",
+	"isDesktopOnly": false
+}
